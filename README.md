@@ -1,4 +1,4 @@
-# Clima
+# GetWeatherApp
 This is an app which shows weather on current and selected locations.
 
 # Podfiles
