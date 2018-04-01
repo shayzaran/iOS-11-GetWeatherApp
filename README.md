@@ -1,12 +1,9 @@
 # Clima
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Clima App
+This is an app which shows weather on current and selected locations.
 
-Beginner: Download the starter project files as .zip and extract the files to your desktop.
+# Podfiles
 
-Pro: Git clone to your Xcode projects folder.
-
-## Finished App
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Clima.gif)
+SwiftyJSON, Alamofire, SVProgressHUD
 
 ## Fix for Cocoapods v1.0.1 and below
 
@@ -39,6 +36,4 @@ end
 	</dict>
 ```
 
-
-Copyright © The App Brewery
 
