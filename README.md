@@ -7,7 +7,7 @@ SwiftyJSON, Alamofire, SVProgressHUD
 
 ## Built With
 
-XCode 9 & Swift 4
+XCode 9.2 & Swift 4
 
 ### Fix for Cocoapods v1.0.1 and below
 
