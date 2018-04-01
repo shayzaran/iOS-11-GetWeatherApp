@@ -1,11 +1,15 @@
 # GetWeatherApp
 This is an app which shows weather on current and selected locations.
 
-# Podfiles
+# PodFiles
 
 SwiftyJSON, Alamofire, SVProgressHUD
 
-## Fix for Cocoapods v1.0.1 and below
+## Built With
+
+XCode 9 & Swift 4
+
+### Fix for Cocoapods v1.0.1 and below
 
 ```ruby
 post_install do |installer|
@@ -18,7 +22,7 @@ post_install do |installer|
 end
 ```
 
-## Fix for App Transport Security Override
+### Fix for App Transport Security Override
 
 ```XML
 	<key>NSAppTransportSecurity</key>
